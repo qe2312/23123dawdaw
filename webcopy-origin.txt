@@ -1,0 +1,36 @@
+Uri: https://incandescent-tangy-raccoon.glitch.me/
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\index.htm
+Content Type: text/html
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/assets/snow.js
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\assets\snow.js
+Content Type: application/javascript
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/favicon.ico
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/img/banner.png
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\img\banner.png
+Content Type: image/png
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/img/screenshot-1.png
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\img\screenshot-1.png
+Content Type: image/png
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/img/screenshot-2.png
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\img\screenshot-2.png
+Content Type: image/png
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/img/screenshot-3.png
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\img\screenshot-3.png
+Content Type: image/png
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/index-2.html
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\index-2.html
+Content Type: text/html
+
+Uri: https://incandescent-tangy-raccoon.glitch.me/style.css
+File Name: C:\Downloaded Web Sites\incandescent-tangy-raccoon.glitch.me\style.css
+Content Type: text/css
+
